@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svn2Git", "Svn2Git\Svn2Git.csproj", "{E972992E-5C83-46F4-BFBC-7565A35DF095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E972992E-5C83-46F4-BFBC-7565A35DF095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E972992E-5C83-46F4-BFBC-7565A35DF095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E972992E-5C83-46F4-BFBC-7565A35DF095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E972992E-5C83-46F4-BFBC-7565A35DF095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F7877A-49ED-4289-9A1C-6584D719F8E4}
+	EndGlobalSection
+EndGlobal
